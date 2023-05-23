@@ -42,7 +42,7 @@ wget -q -O /etc/issue.net "https://raw.githubusercontent.com/kanghoryVPN/Autoscr
 wget -q -O /root/versi "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/versibasic"
 wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/update.sh"
 wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-backup.sh"
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/backup/set-br.sh
+wget https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/backup/set-br.sh
 bash set-br.sh
 chmod +x /usr/bin/menu-backup
 chmod +x /usr/bin/menu
