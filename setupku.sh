@@ -40,7 +40,7 @@ echo "IP=" >> /var/lib/scrz-prem/ipvps.conf
 sudo at install squid -y
 sudo apt install net-tools -y
 sudo apt install vnstat -y
-wget -q https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/tools.sh && chmod +x tools.sh && ./tools.sh
+wget -q https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/tools.sh && chmod +x tools.sh && ./tools.sh
 rm tools.sh
 clear
 # izin
@@ -90,10 +90,10 @@ echo -e "$green      Install SSH / WS               $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
+wget https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/ssh-vpn.sh && chmod +x ssh-vpn.sh && ./ssh-vpn.sh
 sleep 2
 clear
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
+wget https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/nginx-ssl.sh && chmod +x nginx-ssl.sh && ./nginx-ssl.sh
 
 
 #install ssh ovpn
@@ -102,14 +102,14 @@ echo -e "$green      Install Websocket              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
 clear
-wget https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/Insshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
+wget https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/Insshws/insshws.sh && chmod +x insshws.sh && ./insshws.sh
 
 #exp
 cd /usr/bin
-wget -O xp "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/xp.sh"
+wget -O xp "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/xp.sh"
 chmod +x xp
 sleep 1
-wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
+wget -q -O /usr/bin/notramcpu "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/Finaleuy/notramcpu" && chmod +x /usr/bin/notramcpu
 
 cd
 #remove log 
@@ -124,14 +124,14 @@ echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━�
 echo -e "$green      Install Xray              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O ins-xray.sh https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
+wget -q -O ins-xray.sh https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/ins-xray.sh && chmod +x ins-xray.sh && ./ins-xray.sh
 sleep 1
 wget -q -O senmenu.sh https://raw.githubusercontent.com/kanghoryVPN/VPN/main/senmenu.sh && chmod +x senmenu.sh && ./senmenu.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install slowdns              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 sleep 2
-wget -q -O slowdns.sh https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget -q -O slowdns.sh https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
 echo -e "$green      Install openvpn              $NC"
 echo -e "\e[33m━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\033[0m"
