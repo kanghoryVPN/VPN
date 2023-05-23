@@ -38,7 +38,7 @@ wget -q -O /usr/bin/addhost  "https://raw.githubusercontent.com/Andyvpn/Autoscri
 wget -q -O /usr/bin/genssl  "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/genssl.sh"
 wget -q -O /usr/bin/fix "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/cf.sh"
 wget -q -O /usr/bin/trialssh "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/trialssh.sh"
-wget -q -O /etc/issue.net "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/issue.net"
+wget -q -O /etc/issue.net "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/issue.net"
 wget -q -O /root/versi "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/versibasic"
 wget -q -O /usr/bin/updatsc "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/update.sh"
 wget -q -O /usr/bin/menu-backup "https://raw.githubusercontent.com/Andyvpn/Autoscript-by-azi/main/menu-backup.sh"
