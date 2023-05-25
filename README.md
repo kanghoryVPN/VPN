@@ -3,7 +3,7 @@
 ```
 * MULTIPORT
 ```
-![logo](https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/sc1.jpg
+![logo](https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/SS.jpg
 )
 ## Step 1 update your vps frist
 ```
