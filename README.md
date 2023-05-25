@@ -1,5 +1,5 @@
 
-# SC By ANDYYUDA KLMPK ( ENGLISH )
+# SC By kanghoryVPN ( Santri Jowo )
 ```
 * MULTIPORT
 ```
@@ -31,4 +31,4 @@ wget -q -O slowdns.sh https://raw.githubusercontent.com/Andyvpn/Autoscript-by-az
 ✅ XRAY TROJAN TCP XTLS 443<br>
 ✅ XRAY TROJAN TCP TLS 443<br>
 <br>
-Order script: wa 082131861788
+Order script: wa 085225171738
