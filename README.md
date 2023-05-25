@@ -3,7 +3,7 @@
 ```
 * MULTIPORT
 ```
-![logo](https://raw.githubusercontent.com/kanghoryVPN/Autoscript-vpn/main/SS.jpg
+[logo](https://raw.githubusercontent.com/kanghoryVPN/Autoscript-vpn/main/SS.jpg
 )
 ## Step 1 update your vps frist
 ```
