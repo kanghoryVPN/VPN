@@ -3,8 +3,7 @@
 ```
 * MULTIPORT
 ```
-[logo](https://raw.githubusercontent.com/kanghoryVPN/Autoscript-vpn/main/SS.jpg
-)
+![logo](https://raw.githubusercontent.com/kanghoryVPN/Autoscript-vpn/main/SS.jpg)
 ## Step 1 update your vps frist
 ```
  apt-get update && apt-get upgrade -y && apt dist-upgrade -y && update-grub && reboot
