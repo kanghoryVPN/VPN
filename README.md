@@ -12,7 +12,7 @@
 
   ```html
 
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/Andyvpn/Autoscript-vpn/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/kanghoryVPN/VPN/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
   ```
 ## JIKA MAU GANTI NAMESAVERNTA LINK<br>
 
@@ -23,6 +23,7 @@ wget -q -O slowdns.sh https://raw.githubusercontent.com/Andyvpn/Autoscript-by-az
 
 ## Fitur:
 <br>
+✅ SSH WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
 ✅ SSH WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
 ✅ XRAY VMESS WEBSOCKET TLS & NON-TLS 443/80 MULTIPATH<br>
 ✅ XRAY VLESS WEBSOCKET TLS & NON-TLS 443/80<br>
