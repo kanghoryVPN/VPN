@@ -2,7 +2,7 @@
 # // config Data
 echo -e "${GREEN}Config Data${NC}"
 
-wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/menu.sh"
+#wget -q -O /usr/bin/menu "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/menu.sh"
 wget -q -O /usr/bin/add-ws "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/add-ws.sh"
 wget -q -O /usr/bin/add-ssws "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/add-ssws.sh"
 #wget -q -O /usr/bin/add-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/add-socks.sh"
