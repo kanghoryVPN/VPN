@@ -19,7 +19,7 @@ wget -q -O /usr/bin/cek-speed "https://raw.githubusercontent.com/kanghoryVPN/Aut
 wget -q -O /usr/bin/cek-bandwidth "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/cek-bandwidth.sh"
 wget -q -O /usr/bin/cek-ram "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/ram.sh"
 wget -q -O /usr/bin/limit-speed "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/limit-speed.sh"
-wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-vless.sh"
+wget -q -O /usr/bin/menu-vless "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/menu-vless.sh"
 wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/menu-vmess.sh"
 #wget -q -O /usr/bin/menu-socks "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-socks.sh"
 wget -q -O /usr/bin/menu-ss "https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/menu-ss.sh"
