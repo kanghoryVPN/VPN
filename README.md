@@ -12,13 +12,13 @@
 
   ```html
 
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/kanghoryVPN/VPN/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/+6285225171738/VPN/main/setupku.sh && chmod +x setupku.sh && ./setupku.sh
   ```
 ## JIKA MAU GANTI NAMESAVERNTA LINK<br>
 
   ```html
 
-wget -q -O slowdns.sh https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
+wget -q -O slowdns.sh https://raw.githubusercontent.com/+6285225171738/Autoscript-by-azi/main/autoscript-ssh-slowdns-main/slowdns.sh && chmod +x slowdns.sh && ./slowdns.sh
   ```  
 
 ## Fitur:
