@@ -10,7 +10,7 @@ wget -q -O /usr/bin/add-vless "https://raw.githubusercontent.com/kanghory/VPN/ma
 wget -q -O /usr/bin/add-tr "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/add-tr.sh"
 wget -q -O /usr/bin/add-trgo "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/add-trgo.sh"
 wget -q -O /usr/bin/autoreboot "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/autoreboot.sh"
-wget -q -O /usr/bin/restart "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/restart.sh"
+wget -q -O /usr/bin/restartfix "https://raw.githubusercontent.com/kanghoryVPN/VPN/main/restartfix.sh"
 wget -q -O /usr/bin/tendang "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/tendang.sh"
 wget -q -O /usr/bin/clearlog "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/clearlog.sh"
 wget -q -O /usr/bin/running "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/running.sh"
@@ -25,7 +25,7 @@ wget -q -O /usr/bin/menu-vmess "https://raw.githubusercontent.com/Pakhaji30/Auto
 wget -q -O /usr/bin/menu-ss "https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/menu-ss.sh"
 wget -q -O /usr/bin/menu-trojan "https://raw.githubusercontent.com/Pakhaji30/Autoscript-vpn/main/menu-trojan.sh"
 #wget -q -O /usr/bin/menu-trgo "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-trgo.sh"
-wget -q -O /usr/bin/menu-ssh "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-ssh.sh"
+wget -q -O /usr/bin/menufix-ssh "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-sshfix.sh"
 #wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/menu-bckp-telegram.sh"
 wget -q -O /usr/bin/menu-bckp "https://raw.githubusercontent.com/kanghoryVPN/Autoscript-by-azi/main/menu-bckp-github.sh"
 #wget -q -O /usr/bin/bckp "https://raw.githubusercontent.com/Agunxzzz/XrayCol/main/minacantik/bckpbot.sh"
@@ -56,7 +56,7 @@ chmod +x /usr/bin/usernew
 chmod +x /usr/bin/autoreboot
 chmod +x /usr/bin/addhost
 chmod +x /usr/bin/genssl
-chmod +x /usr/bin/restart
+chmod +x /usr/bin/restartfix
 chmod +x /usr/bin/tendang
 chmod +x /usr/bin/clearlog
 chmod +x /usr/bin/running
@@ -72,7 +72,7 @@ chmod +x /usr/bin/updatsc
 chmod +x /usr/bin/trialssh
 chmod +x /usr/bin/menu-trojan
 #chmod +x /usr/bin/menu-trgo
-chmod +x /usr/bin/menu-ssh
+chmod +x /usr/bin/menufix-ssh
 chmod +x /usr/bin/menu-bckp
 chmod +x /usr/bin/menu
 chmod +x /usr/bin/bckp
